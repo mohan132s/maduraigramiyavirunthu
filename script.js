@@ -1,8 +1,8 @@
 const menuItems = [
     {
         id: 1,
-        name: "Margherita Pizza",
-        price: 12.99,
+        name: "Dosai",
+        price: 20,
         image: "/placeholder.svg?height=200&width=200"
     },
     {
