@@ -6,7 +6,7 @@ const menuItems = [
             ta: "தோசை"
         },
         price: 20,
-        image: "/placeholder.svg?height=200&width=200"
+        image: "/images/dosa.png"
     },
     {
         id: 2,
